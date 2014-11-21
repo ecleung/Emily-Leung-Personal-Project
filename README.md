@@ -11,7 +11,7 @@ I also wanted to create a menu bar very similar to the website's current one. Th
 
 Here is how the menu turned out.
 
-![menu4](menu4.jpg)
+![menu4](menu4.png)
 
 To do this, I went to edit the menu 
 
