@@ -5,6 +5,8 @@ Since my client SkyTouch had my group create a wordpress for them I decided to c
 
 ON THE MARK (OTM) uses a black, red, and orange (as well as varying other shades of these 3 colors) and has a simplistic layout on all of its letterhead and forms. This is why I chose the oxygen theme, it's clean, simple and efficient. Red was chosen for link colors, over the default blue, to play up the OTM colors.
 
+MENU
+============================
 I also wanted to create a menu bar very similar to the website's current one. This required some research since OTM has so many pages that aren't actually on the default menu bar of 5 links. By this I mean, some pages are internal (you can only find it within the text of a page) and some are drop down links from the 5 main categories. If I didn't modify the menu all of the pages I created would show up on the main menu with no heirarchy.
 
 Here is how the menu turned out.
@@ -23,6 +25,8 @@ In order to use this menu, I needed to check the box 'primary menu' to ensure th
 
 ![menu3](menu3.png)
 
+ANCHORS
+============================
 I also found some anchors within a page of the OTM website and decided to recreate it. This is found on the Case Studies page under the Results tab. 
 
 To do this I added anchor tags to the code. Here, in yellow, is an example of one tag.
